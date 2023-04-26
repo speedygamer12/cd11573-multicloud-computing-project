@@ -1,5 +1,7 @@
 # A Multi-Cloud Application
 
+Architecture Diagram - [multicloud.pdf](./multicloud.pdf)
+
 ## AWS DYNAMO DB
 ### Requirements: Global availability and highly scalable pricing
 - It offers compatibility with S3-api
@@ -10,10 +12,13 @@
 ### Images
 - Destroying terraform on aws 
 ![Destroying terraform on aws](images/Aws-destroy.png)
+
 - Destroying terraform on azure 
 ![Destroying terraform on azure](images/Azure-destroy.png)
+
 - App service render on azure 
 ![App service render on azure](images/Azure.png)
+
 - App service render on aws 
 ![App service render on aws](images/load-balancer.png)
 
